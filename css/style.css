@@ -1,0 +1,15 @@
+/*
+Theme Name: Bootstrap Theme
+Author: Namraj P
+
+*/
+
+.blog-nav li{
+	position: relative;
+	display: inline-block;
+	font-weight: bold;
+	padding: 15px;
+
+}
+
+.blog-nav li a{ color: #fff; }
